@@ -19,6 +19,24 @@
    "picked_utc": "2026-10-22T21:33:23.344Z",
    "updated_utc": "2026-10-22T21:33:25.867Z",
    "deleted": true
+  },
+  {
+   "id": "7|00-0039021|rush_att",
+   "pid": "00-0039021",
+   "name": "Roschon Johnson",
+   "pos": "RB",
+   "gid": "2026_07_NE_CHI",
+   "wk": 7,
+   "mid": "rush_att",
+   "side": "o",
+   "line": 7.5,
+   "odds": 110,
+   "book": "DraftKings",
+   "src": "Pre-game",
+   "cap": "2026-10-22T20:53:16Z",
+   "ko": "2026-10-23T00:15:00Z",
+   "picked_utc": "2026-10-22T21:37:21.750Z",
+   "updated_utc": "2026-10-22T21:37:21.750Z"
   }
  ]
 }
