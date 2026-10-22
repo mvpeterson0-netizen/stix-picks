@@ -1,0 +1,23 @@
+{
+ "version": 1,
+ "picks": [
+  {
+   "id": "7|00-0039918|pass_yds",
+   "pid": "00-0039918",
+   "name": "Caleb Williams",
+   "pos": "QB",
+   "gid": "2026_07_NE_CHI",
+   "wk": 7,
+   "mid": "pass_yds",
+   "side": "o",
+   "line": 242.5,
+   "odds": -112,
+   "book": "DraftKings",
+   "src": "Pre-game",
+   "cap": "2026-10-22T20:53:16Z",
+   "ko": "2026-10-23T00:15:00Z",
+   "picked_utc": "2026-10-22T21:33:23.344Z",
+   "updated_utc": "2026-10-22T21:33:23.344Z"
+  }
+ ]
+}
