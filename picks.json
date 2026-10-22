@@ -55,6 +55,24 @@
    "ko": "2026-10-23T00:15:00Z",
    "picked_utc": "2026-10-22T21:37:28.727Z",
    "updated_utc": "2026-10-22T21:37:28.727Z"
+  },
+  {
+   "id": "7|00-0040734|rec",
+   "pid": "00-0040734",
+   "name": "TreVeyon Henderson",
+   "pos": "RB",
+   "gid": "2026_07_NE_CHI",
+   "wk": 7,
+   "mid": "rec",
+   "side": "u",
+   "line": 0.5,
+   "odds": 160,
+   "book": "DraftKings",
+   "src": "Pre-game",
+   "cap": "2026-10-22T20:53:16Z",
+   "ko": "2026-10-23T00:15:00Z",
+   "picked_utc": "2026-10-22T21:37:43.891Z",
+   "updated_utc": "2026-10-22T21:37:43.891Z"
   }
  ]
 }
