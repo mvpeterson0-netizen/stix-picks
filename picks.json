@@ -145,6 +145,24 @@
    "ko": "2026-10-25T20:25:00Z",
    "picked_utc": "2026-10-23T14:58:29.146Z",
    "updated_utc": "2026-10-23T14:58:29.146Z"
+  },
+  {
+   "id": "7|00-0040198|rush_yds",
+   "pid": "00-0040198",
+   "name": "Ollie Gordon II",
+   "pos": "RB",
+   "gid": "2026_07_MIA_NYJ",
+   "wk": 7,
+   "mid": "rush_yds",
+   "side": "o",
+   "line": 48.5,
+   "odds": -109,
+   "book": "DraftKings",
+   "src": "Thu",
+   "cap": "2026-10-22T19:00:16Z",
+   "ko": "2026-10-25T17:00:00Z",
+   "picked_utc": "2026-10-23T14:59:38.204Z",
+   "updated_utc": "2026-10-23T14:59:38.204Z"
   }
  ]
 }
