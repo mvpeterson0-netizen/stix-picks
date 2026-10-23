@@ -327,6 +327,24 @@
    "picked_utc": "2026-10-23T20:51:00.008Z",
    "updated_utc": "2026-10-23T20:51:31.534Z",
    "deleted": true
+  },
+  {
+   "id": "7|00-0033873|rush_yds",
+   "pid": "00-0033873",
+   "name": "Patrick Mahomes",
+   "pos": "QB",
+   "gid": "2026_07_KC_SEA",
+   "wk": 7,
+   "mid": "rush_yds",
+   "side": "u",
+   "line": 14.5,
+   "odds": -112,
+   "book": "DraftKings",
+   "src": "Bet on DK",
+   "cap": "2026-10-23T16:53:23Z",
+   "ko": "2026-10-26T00:20:00Z",
+   "picked_utc": "2026-10-23T20:51:44.306Z",
+   "updated_utc": "2026-10-23T20:51:44.306Z"
   }
  ]
 }
