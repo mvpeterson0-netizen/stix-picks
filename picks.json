@@ -439,6 +439,24 @@
    "ko": "2026-10-25T20:25:00Z",
    "picked_utc": "2026-10-25T16:42:23.189Z",
    "updated_utc": "2026-10-25T16:42:23.189Z"
+  },
+  {
+   "id": "7|00-0037263|rush_att",
+   "pid": "00-0037263",
+   "name": "Tyler Allgeier",
+   "pos": "RB",
+   "gid": "2026_07_DEN_ARI",
+   "wk": 7,
+   "mid": "rush_att",
+   "side": "o",
+   "line": 8.5,
+   "odds": -138,
+   "book": "DraftKings",
+   "src": "Sun AM",
+   "cap": "2026-10-25T13:00:19Z",
+   "ko": "2026-10-25T20:05:00Z",
+   "picked_utc": "2026-10-25T16:44:36.669Z",
+   "updated_utc": "2026-10-25T16:44:36.669Z"
   }
  ]
 }
