@@ -412,15 +412,15 @@
    "gid": "2026_07_NYG_HOU",
    "wk": 7,
    "mid": "rec_yds",
-   "side": "u",
+   "side": "o",
    "line": 68.5,
-   "odds": -111,
+   "odds": -113,
    "book": "DraftKings",
    "src": "Pre-game",
    "cap": "2026-10-25T13:30:15Z",
    "ko": "2026-10-25T17:00:00Z",
-   "picked_utc": "2026-10-25T16:39:58.643Z",
-   "updated_utc": "2026-10-25T16:39:58.643Z"
+   "picked_utc": "2026-10-25T16:39:59.960Z",
+   "updated_utc": "2026-10-25T16:39:59.960Z"
   }
  ]
 }
