@@ -421,6 +421,24 @@
    "ko": "2026-10-25T17:00:00Z",
    "picked_utc": "2026-10-25T16:39:59.960Z",
    "updated_utc": "2026-10-25T16:39:59.960Z"
+  },
+  {
+   "id": "7|00-0026498|pass_yds",
+   "pid": "00-0026498",
+   "name": "Matthew Stafford",
+   "pos": "QB",
+   "gid": "2026_07_LA_LV",
+   "wk": 7,
+   "mid": "pass_yds",
+   "side": "o",
+   "line": 264.5,
+   "odds": -113,
+   "book": "DraftKings",
+   "src": "Sun AM",
+   "cap": "2026-10-25T13:00:19Z",
+   "ko": "2026-10-25T20:25:00Z",
+   "picked_utc": "2026-10-25T16:42:23.189Z",
+   "updated_utc": "2026-10-25T16:42:23.189Z"
   }
  ]
 }
