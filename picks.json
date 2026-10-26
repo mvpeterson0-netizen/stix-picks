@@ -476,6 +476,24 @@
    "ko": "2026-10-30T00:15:00Z",
    "picked_utc": "2026-10-26T20:29:33.294Z",
    "updated_utc": "2026-10-26T20:29:33.294Z"
+  },
+  {
+   "id": "7|00-0034844|rush_att",
+   "pid": "00-0034844",
+   "name": "Saquon Barkley",
+   "pos": "RB",
+   "gid": "2026_07_DAL_PHI",
+   "wk": 7,
+   "mid": "rush_att",
+   "side": "u",
+   "line": 15.5,
+   "odds": -123,
+   "book": "DraftKings",
+   "src": "Pre-game",
+   "cap": "2026-10-26T21:00:22Z",
+   "ko": "2026-10-27T00:15:00Z",
+   "picked_utc": "2026-10-26T23:10:58.959Z",
+   "updated_utc": "2026-10-26T23:10:58.959Z"
   }
  ]
 }
