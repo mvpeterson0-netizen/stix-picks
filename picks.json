@@ -458,6 +458,24 @@
    "picked_utc": "2026-10-25T16:44:36.669Z",
    "updated_utc": "2026-10-25T16:46:37.659Z",
    "deleted": true
+  },
+  {
+   "id": "8|00-0040009|rec_yds",
+   "pid": "00-0040009",
+   "name": "Savion Williams",
+   "pos": "WR",
+   "gid": "2026_08_CAR_GB",
+   "wk": 8,
+   "mid": "rec_yds",
+   "side": "o",
+   "line": 20.5,
+   "odds": -112,
+   "book": "DraftKings",
+   "src": "Mon",
+   "cap": "2026-10-26T13:00:19Z",
+   "ko": "2026-10-30T00:15:00Z",
+   "picked_utc": "2026-10-26T20:29:33.294Z",
+   "updated_utc": "2026-10-26T20:29:33.294Z"
   }
  ]
 }
