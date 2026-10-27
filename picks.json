@@ -512,6 +512,24 @@
    "ko": "2026-10-30T00:15:00Z",
    "picked_utc": "2026-10-27T00:33:39.457Z",
    "updated_utc": "2026-10-27T00:33:39.457Z"
+  },
+  {
+   "id": "8|00-0036555|rush_att",
+   "pid": "00-0036555",
+   "name": "Chuba Hubbard",
+   "pos": "RB",
+   "gid": "2026_08_CAR_GB",
+   "wk": 8,
+   "mid": "rush_att",
+   "side": "o",
+   "line": 15.5,
+   "odds": -113,
+   "book": "DraftKings",
+   "src": "Mon",
+   "cap": "2026-10-26T13:00:19Z",
+   "ko": "2026-10-30T00:15:00Z",
+   "picked_utc": "2026-10-27T00:41:20.839Z",
+   "updated_utc": "2026-10-27T00:41:20.839Z"
   }
  ]
 }
