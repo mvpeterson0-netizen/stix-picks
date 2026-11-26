@@ -584,6 +584,24 @@
    "ko": "2026-11-27T01:20:00Z",
    "picked_utc": "2026-11-26T13:24:48.852Z",
    "updated_utc": "2026-11-26T13:24:48.852Z"
+  },
+  {
+   "id": "12|00-0034844|rush_yds",
+   "pid": "00-0034844",
+   "name": "Saquon Barkley",
+   "pos": "RB",
+   "gid": "2026_12_PHI_DAL",
+   "wk": 12,
+   "mid": "rush_yds",
+   "side": "u",
+   "line": 66.5,
+   "odds": -111,
+   "book": "DraftKings",
+   "src": "Bet on DK",
+   "cap": "2026-11-26T02:00:32Z",
+   "ko": "2026-11-26T21:30:00Z",
+   "picked_utc": "2026-11-26T13:25:03.778Z",
+   "updated_utc": "2026-11-26T13:25:03.778Z"
   }
  ]
 }
